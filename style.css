@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #0892e7;
+  color: #9a4242;
+  font-size: 20px;
+  font-family: monospace;
+
+  h1{
+    color: #f3f359;
+    font-size: 40px;
+  }
+}
